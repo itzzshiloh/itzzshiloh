@@ -1,6 +1,6 @@
 <h1 align="center">hello i'm shiloh</h1>
 
-programmer & web developer & Linux systems engineer
+Aspiring Systems Engineer | Linux & Software Development
 
 i made voidflow
 
