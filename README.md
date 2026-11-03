@@ -2,14 +2,14 @@
 
 Aspiring Systems Engineer | Linux & Software Development
 
-i made voidflow
+I Made Voidflow
 
-- everything i have made is at: [github](https://github.com/itzzshiloh)
+- Everything I Have Made Is At: [github](https://github.com/itzzshiloh)
 
-- discord server - [click](https://discord.gg/Haxbr38dp7)
+- Discord Server - [click](https://discord.gg/Haxbr38dp7)
 
 
-- i love my dog shiloh ❤
+- I Love My Dog Shiloh ❤
 
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,js,html,css,java,ts," height="48" />
