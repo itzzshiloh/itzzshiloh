@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">hello i'm shiloh</h1>
 
-<!--
-**itzzshiloh/itzzshiloh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+programmer & web developer & Linux systems engineer
 
-Here are some ideas to get you started:
+i made voidflow
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- everything i have made is at: [github](https://github.com/itzzshiloh)
+
+- discord server - [click](https://discord.gg/hvD4juhpTa)
+
+
+- i love my dog shiloh ❤
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,linux,git,github,js,html,css,java,ts," height="48" />
+</p>
