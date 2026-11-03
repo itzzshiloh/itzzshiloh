@@ -6,7 +6,7 @@ i made voidflow
 
 - everything i have made is at: [github](https://github.com/itzzshiloh)
 
-- discord server - [click](https://discord.gg/hvD4juhpTa)
+- discord server - [click](https://discord.gg/Haxbr38dp7)
 
 
 - i love my dog shiloh ❤
